@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Resource Container Documentation
+Unlocked Bible Notes Team Information Documentation
 ================================
 
-This site is the official documentation for Door43's resource container specification.  Resource Containers are the building blocks of content in our Door43 eco-system.
+This site is the official documentation for Door43's Unlocked Bible Notes.  The content for the UBN is being created by Wycliffe Associates staff members.
 
 
 Contents:
@@ -14,7 +14,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   structure
+   general
    manifest
    resource_types
-   linking
+   tagging
+   architecture of the files
