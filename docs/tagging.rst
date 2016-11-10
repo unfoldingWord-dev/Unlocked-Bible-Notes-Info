@@ -30,7 +30,7 @@ Scripture-Linking Tags
 ----------------------
 
 These tags allow writers to link notes to other Scripture passages. 
-**THESE TAGS SHOULD BE PLACED AFTER ALL SUITABLE FILTERING TAGS HAVE BEEN PLACED.
+**THESE TAGS SHOULD BE PLACED AFTER ALL SUITABLE FILTERING TAGS HAVE BEEN PLACED.**
 
 - Allusion (#xa-xxx). (Example: #xa-isa40:3) To say that a biblical writer is alluding to another passage is to claim that, in your judgment, the writer is consciously drawing the reader’s attention to that passage without actually quoting it.
 - Direct quote (#xq-xxx). (Example: #xq-gen12:3) Remember that biblical writers may quote passages either strictly or loosely. They may combine two or more distinct passages into what appears as one quotation. They may also quote from either the Hebrew Bible or the Septuagint; they may even mix these two sources together to achieve a sort of combined quotation.
@@ -61,3 +61,20 @@ These tags allow the writer to link notes to other project resources, i.e., glos
 
 Workflow Tags
 ------------
+
+Use these tags in the process of composing and developing the notes. These tags will not appear in the final, publish product. Most of these tags being with (#d...), which you can remember as standing for "desired." 
+
+**THESE TAGS SHOULD BE PLACED AFTER ALL SUITABLE RESOURCE-LINKING TAGS HAVE BEEN PLACED.**
+
+Once a manager-reviser accepts a requested item, he or she will do the following: (a) create a page for the item, (b) run a script changing the #dx- tag to a #x- tag everywhere in the UBN repository, and (c) place the changed tag in the proper tag order. For example, after accepting a request to add "Crucifixion" as a glossary item, the #dg-crucifixion tag will be changed by a script application to #g-crucifixion. And after accepting the request for a map of Egypt at the time of the Exodus, a page for that map will be created, and the #dm-egyptattimeofexodus tag will be changed to #m-egyptattimeofexodus. Finally (d), the manager-reviser will also ensure that these new items be added to the current inventories of items.
+
+
+This means that for a resource item to be said to exist, it will suffice for that item to have a unique page and a permanent tag—even if the content of that item is not yet written.
+
+- Question (#q).  Use this tag to mark every working question created to generate a note. Place the tag after the question on the same line. (This is an exception to the general rule of each tag sitting in its own line.) 
+- Desired glossary entry (#dg-xxx).  (Example: #dg-blessing) Use this tag to request a new item to be added to the glossary. 
+- Desired article (#da-xxx).  (Example: #da-crucifixion) Use this tag to request a new article to be written. 
+- Desired map (#dm-xxx). (Example: #dm-Jerusalem in David's time) Use this tag to request a new map to be drawn and added to the map resources.   
+- Desired biblical theme (#dbt-xxx) (Example: #dbt-verbalinspir) Use this tag to request a new biblical theme that the user can employ for filtering notes.  
+- Desired theological stance (#dts-xxx) (Example: #dts-infantbap) Use this tag to request a new biblical theological stance that the user can employ for filtering notes.  
+
