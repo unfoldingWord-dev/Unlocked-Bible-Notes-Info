@@ -27,6 +27,26 @@ On the other hand, if a note presents both sides of a controversy in an even-han
 Scripture-Linking Tags
 ----------------------
 
+These tags allow writers to link notes to other Scripture passages. THESE TAGS SHOULD BE PLACED AFTER ALL SUITABLE FILTERING TAGS HAVE BEEN PLACED.
+
+- Allusion (#xa-xxx). (Example: #xa-isa40:3) To say that a biblical writer is alluding to another passage is to claim that, in your judgment, the writer is consciously drawing the reader’s attention to that passage without actually quoting it.
+- Direct quote (#xq-xxx). (Example: #xq-gen12:3) Remember that biblical writers may quote passages either strictly or loosely. They may combine two or more distinct passages into what appears as one quotation. They may also quote from either the Hebrew Bible or the Septuagint; they may even mix these two sources together to achieve a sort of combined quotation.
+- Cross-reference (#vr-xxx). (Example: #xr-gen1:1) A cross-reference is any other passage that is relevant to the passage under consideration, if it is not a direct quote or an allusion.    
+- Multiple note insertion (#xxxn:n). (Example: #luk3:1) This tag is a device to apply a note written for one Bible passage to another passage as well. It allows the same note to appear in more than one place.  
+
+
+Resource-Linking Tags
+----------------------
+
+These tags allow the writer to link notes to other project resources, i.e., glossary, articles, etc. 
+
+THESE TAGS SHOULD BE PLACED AFTER ALL SUITABLE SCRIPTURE-LINKING TAGS HAVE BEEN PLACED.
+
+- Existing glossary entry (#g-xxx).  (Example: #g-ascension) Use this tag to link the note to an existing glossary item. Check the inventory of current glossary items to see whether the item to which you desire to link already exists; if it does, you will find its approved tag. In that case, then use the same tag.
+- Existing article (#a-xxx). (Example: #a-christ) Use this tag to link the note to an existing article. Check the inventory of current articles to see whether the article to which you desire to link already exists; if it does, you will find its approved tag. In that case, then use the same tag.          
+- Existing map (#m-xxx). (Example: #m-Judea) Maps are planned to be prepared upon request. They are to be included as a linkable resource.   
+- Strongs number (#Hn..., #An..., #Gn...). (Examples: #H305, #A1933, #G58) Use these tags to refer to the citation form of a word in a biblical language. These tags should be put in-line in sentences in the notes.  Links to Strongs numbers can be found at https://en.wikipedia.org/wiki/Strong%27s_Concordance or elsewhere.    
 
 
 
+Workflow Tags
