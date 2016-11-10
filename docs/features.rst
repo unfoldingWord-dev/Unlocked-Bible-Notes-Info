@@ -31,11 +31,7 @@ The notes are to have links to the glossary entries and articles. Also, glossary
 The Paragraphing Characteristics of the Notes
 ----------------------------------------------
 
-
-
-
-
-
+Each note must be followed by a blank line before the next note or other item, such as a verse number header.
 
 Ease of Adaptation and Translation into other Languages
 --------------------------------------------------------
