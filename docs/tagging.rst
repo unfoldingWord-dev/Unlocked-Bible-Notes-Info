@@ -30,6 +30,7 @@ Scripture-Linking Tags
 ----------------------
 
 These tags allow writers to link notes to other Scripture passages. 
+
 **THESE TAGS SHOULD BE PLACED AFTER ALL SUITABLE FILTERING TAGS HAVE BEEN PLACED.**
 
 - Allusion (#xa-xxx). (Example: #xa-isa40:3) To say that a biblical writer is alluding to another passage is to claim that, in your judgment, the writer is consciously drawing the reader’s attention to that passage without actually quoting it.
