@@ -14,6 +14,7 @@ Specific Architecture
 Door43/en-ubn 
 -----
 Homepage of the UBN
+
 1. Location of all files that are for global reference/use
 
 2. Links to all other biblical book repos on the main readme file.
@@ -45,38 +46,23 @@ Directory Structure
 Content
 -------
 
-The folder structure of the content directory in resource containers are mostly the same. Differences between resource types may include the absense of some files or the inclusion of others.
-
+The folder structure of the content directory
 Note: that where a .txt extension is shown below, the proper extension should be used according to the content_mime_type indicated in the package.json. For example .usfm or .md.
 
 .. code-block:: none
 
-    content/
-        |-config.yml
-        |-toc.yml
-        |-01/
-        |    |-title.txt
-        |    |-sub-title.txt
-        |    |-intro.txt
-        |    |-reference.txt
-        |    |-summary.txt
-        |    |-01.txt
-        |    |-02.txt
-        |    ...
-        ...
-        |-front/
-        |-back/
-        ...
+    en-ubn-luk/
+        |-.github
+        |-content/
+        |    |-01.md
+        |    |-02.md
+        |    |-intro.md
+        |-license
+        |-reademe.md
+        
 
 The directories shown above indicate chapters except for the two reserved folders `front` and `back` which contain, if applicable, the front matter and back matter of the container.
 
-The files within each chapter represents the chunks of the chapter. Within each folder are additional reserved files:
-
-- title
-- sub-title
-- intro
-- reference
-- summary
 
 
 
