@@ -15,9 +15,13 @@ Door43/en-ubn
 -----
 Homepage of the UBN
 1. Location of all files that are for global reference/use
+
 2. Links to all other biblical book repos on the main readme file.
+
 3. The explanation of the UBN project
+
 4. The volunteer job description
+
 5. A link to this present document
 
 
