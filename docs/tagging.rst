@@ -10,7 +10,9 @@ Remark: Each tag must go on its own line after a note, with only a few exception
 Filtering Tags
 ---------------
 
-These tags will allow users to find certain kinds of notes. ALL FILTERING TAGS SHOULD BE PLACED AS THE FIRST GROUP OF TAGS AFTER EVERY NOTE.
+These tags will allow users to find certain kinds of notes. 
+
+**ALL FILTERING TAGS SHOULD BE PLACED AS THE FIRST GROUP OF TAGS AFTER EVERY NOTE.**
 
 - Verse number (#vn). (Examples: #v1, #v2-4) Put this tag immediately after every note. Any note lacking this tag will not appear in the database of notes.
 - Advanced level note (#adv). This tag marks advanced level notes; basic level notes go untagged for level. See the explanation of advanced level notes in section 4.1 above.
@@ -27,7 +29,8 @@ On the other hand, if a note presents both sides of a controversy in an even-han
 Scripture-Linking Tags
 ----------------------
 
-These tags allow writers to link notes to other Scripture passages. THESE TAGS SHOULD BE PLACED AFTER ALL SUITABLE FILTERING TAGS HAVE BEEN PLACED.
+These tags allow writers to link notes to other Scripture passages. 
+**THESE TAGS SHOULD BE PLACED AFTER ALL SUITABLE FILTERING TAGS HAVE BEEN PLACED.
 
 - Allusion (#xa-xxx). (Example: #xa-isa40:3) To say that a biblical writer is alluding to another passage is to claim that, in your judgment, the writer is consciously drawing the reader’s attention to that passage without actually quoting it.
 - Direct quote (#xq-xxx). (Example: #xq-gen12:3) Remember that biblical writers may quote passages either strictly or loosely. They may combine two or more distinct passages into what appears as one quotation. They may also quote from either the Hebrew Bible or the Septuagint; they may even mix these two sources together to achieve a sort of combined quotation.
@@ -40,7 +43,7 @@ Resource-Linking Tags
 
 These tags allow the writer to link notes to other project resources, i.e., glossary, articles, etc. 
 
-THESE TAGS SHOULD BE PLACED AFTER ALL SUITABLE SCRIPTURE-LINKING TAGS HAVE BEEN PLACED.
+**THESE TAGS SHOULD BE PLACED AFTER ALL SUITABLE SCRIPTURE-LINKING TAGS HAVE BEEN PLACED.**
 
 - Existing glossary entry (#g-xxx).  (Example: #g-ascension) Use this tag to link the note to an existing glossary item. Check the inventory of current glossary items to see whether the item to which you desire to link already exists; if it does, you will find its approved tag. In that case, then use the same tag.
 - Existing article (#a-xxx). (Example: #a-christ) Use this tag to link the note to an existing article. Check the inventory of current articles to see whether the article to which you desire to link already exists; if it does, you will find its approved tag. In that case, then use the same tag.          
