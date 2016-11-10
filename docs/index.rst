@@ -14,8 +14,11 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   general
-   manifest
-   resource_types
+   purpose
+   relationship
+   features
    tagging
-   architecture of the files
+   procedures
+   tips
+   management
+   architecture
