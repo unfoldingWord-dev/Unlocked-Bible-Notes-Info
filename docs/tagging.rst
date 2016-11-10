@@ -48,5 +48,13 @@ THESE TAGS SHOULD BE PLACED AFTER ALL SUITABLE SCRIPTURE-LINKING TAGS HAVE BEEN 
 - Strongs number (#Hn..., #An..., #Gn...). (Examples: #H305, #A1933, #G58) Use these tags to refer to the citation form of a word in a biblical language. These tags should be put in-line in sentences in the notes.  Links to Strongs numbers can be found at https://en.wikipedia.org/wiki/Strong%27s_Concordance or elsewhere.    
 
 
+    For your information, we expect that glossary entries will look something like these examples:
+
+    #g-ascension - The return of Jesus to heaven after he rose from the dead.
+
+    #g-brother - A male sibling or other close male relative; a fellow member of a group of people--for example, a fellow Christian or a fellow Israelite. In the New Testament, “brothers” can also refer to both men and women in the same group.
+
+    #g-pentecost - A Jewish celebration that came fifty days after the festival of Passover. Pentecost also became an important day in the early church because the believers received the Holy Spirit in a new way on that day. Many Christians consider Pentecost to be the day on which the church formally began.
 
 Workflow Tags
+------------
