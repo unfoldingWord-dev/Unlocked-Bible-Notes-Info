@@ -1,4 +1,4 @@
-The tagging Features in the Notes
+The Tagging Features in the Notes
 =================================
 
 The UBN is composed in markdown language, which uses tags beginning with the hashtag (#), also called  the pound sign. In addition to the current inventory of tags for the UBN project, anyone is free to propose more tags. Any manager-reviser will have the authority to accept or reject such requests.
