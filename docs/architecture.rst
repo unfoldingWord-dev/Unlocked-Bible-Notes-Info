@@ -4,15 +4,19 @@ The IT Architecture of the UBN Project
 General Architecture
 --------------------
 
-- Door43/en-ubn - the UBN home page that contains information pertinent and links to all the other UBN repos
-- Door43/en-ubn-articles - the repo that contains the articles that will be linked from both the UBN notes and UBC
-- Door43/en-ubn-xxx - each biblical book has its own repo
+- Door43/en-ubn
+    - This is the UBN home page that contains pertinent information and links to all the other UBN repos.
+- Door43/en-ubn-articles
+    - This repo contains the articles that will be linked from both the UBN notes and UBC.
+- Door43/en-ubn-xxx 
+    - Each biblical book has its own repo.
 
 Specific Architecture
 ---------------------
 
 Door43/en-ubn 
---
+----
+
 Homepage of the UBN
 
 1. Location of all files that are for global reference/use
@@ -27,7 +31,8 @@ Homepage of the UBN
 
 
 Door43/en-ubn-xxx
---
+----
+
 (where xxx = three-letter code for any biblical book). 
 
 Here is where to locate the working files for the UBN (i.e., the files containing the notes as they are being composed and edited):
@@ -40,27 +45,29 @@ So that the directory tree for any book will look like:
 .. code-block:: none
 
     en-ubn-xxx/
-        |-.github
-        |-content/
-        |-license
-        |-readme.md
+        |.github
+        |content/
+        |license
+        |readme.md
+
 The directories shown above indicate chapters except for the two reserved folders `front` and `back` which contain, if applicable, the front matter and back matter of the container.
 
 Content
-----
+---
 
 The folder structure of the content directory. (Psalms will be 3 digit numbers)
 
 .. code-block:: none
 
     content/
-         |-01.md
-         |-02.md
-         |-intro.md
+         |01.md
+         |02.md
+         |intro.md
 
 
 Door43/en-ubn-articles
 ----
+
 In this repo are articles that will be linked from both the UBN and UBC. https://git.door43.org/Door43/en-ubn-articles
 
 - Here is where to locate the working files for the glossary and articles - as they are being composed and edited.
