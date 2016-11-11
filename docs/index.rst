@@ -22,3 +22,7 @@ Contents:
    tips
    management
    architecture
+   
+   appendix1
+   mnemonic1
+ 
