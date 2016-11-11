@@ -12,7 +12,7 @@ Specific Architecture
 ---------------------
 
 Door43/en-ubn 
-----
+--
 Homepage of the UBN
 
 1. Location of all files that are for global reference/use
@@ -26,8 +26,8 @@ Homepage of the UBN
 5. A link to this present document
 
 
-Door43/en-ubn-xxx, 
-----
+Door43/en-ubn-xxx
+--
 (where xxx = three-letter code for any biblical book). 
 
 Here is where to locate the working files for the UBN (i.e., the files containing the notes as they are being composed and edited):
@@ -48,7 +48,7 @@ So that the directory tree for any book will look like:
 The directories shown above indicate chapters except for the two reserved folders `front` and `back` which contain, if applicable, the front matter and back matter of the container.
 
 Content
--------
+----
 
 The folder structure of the content directory. (Psalms will be 3 digit numbers)
 
@@ -60,4 +60,25 @@ The folder structure of the content directory. (Psalms will be 3 digit numbers)
          |-intro.md
 
 
+Door43/en-ubn-articles
+----
+In this repo are articles that will be linked from both the UBN and UBC. https://git.door43.org/Door43/en-ubn-articles
 
+- Here is where to locate the working files for the glossary and articles - as they are being composed and edited.
+- The ‘rejected’ file with the list of items requested that have been rejected by manager-revisers as necessary. 
+- Each glossary and article item will have its own folder in the content folder in the repository. 
+  - The Glossary entry will be the 01.md file in the folder. 
+    - The working glossary entries as they are proposed and then written by the UBN team or others.
+  - The Article entry will be the 02.md file in the topic folder.
+    - The working articles as they are requested by the UBN team and then written by the UBC team or others.
+  So that the directory tree will look like:
+  
+.. code-block:: none
+  
+      content/
+            |-Topic/
+            |   |-01.md
+            |   |-02.md
+           
+
+REMARK: however, we expect that some articles will not be associated with any glossary term.
