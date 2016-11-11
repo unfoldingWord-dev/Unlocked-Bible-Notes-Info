@@ -10,6 +10,7 @@ UBN/UBC/ tN Projects Manager: Jim Pohlig
   - Prototype working structure
     - Gospel of Luke team:  Andrew, Paul, Shirley
     - Gospel of John team: John, Drew, Nils, Rhea
+
   - Managers-revisers: Andrew and John
   - General UBN editor: Larry
 
