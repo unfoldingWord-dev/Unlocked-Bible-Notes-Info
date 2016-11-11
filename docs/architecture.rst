@@ -36,12 +36,14 @@ Here is where to locate the working files for the UBN (i.e., the files containin
 - Each chapter of the book will have its own file. For example: Luke 1 will have the following chapter URL: https://git.door43.org/Door43/en-ubn-luk/src/master/content/01.md  
 
 So that the directory tree for any book will look like: 
+
 .. code-block:: none
-    en-ubn-luk/
-    |-.github
-    |-content/
-    |-license
-    |-readme.md
+
+    en-ubn-luk/
+        |-.github
+        |-content/
+        |-license
+        |-readme.md
   
 The directories shown above indicate chapters except for the two reserved folders `front` and `back` which contain, if applicable, the front matter and back matter of the container.
 
@@ -51,7 +53,11 @@ Content
 The folder structure of the content directory. (Psalms will be 3 digit numbers)
 
 .. code-block:: none
-    content/
+
+    content/
          |-01.md
          |-02.md
          |-intro.md
+
+
+
