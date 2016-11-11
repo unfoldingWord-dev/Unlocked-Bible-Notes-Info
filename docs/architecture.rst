@@ -11,9 +11,6 @@ General Architecture
 - Door43/en-ubn-xxx 
     - Each biblical book has its own repo.
 
-Specific Architecture
----------------------
-
 Door43/en-ubn 
 ----
 
