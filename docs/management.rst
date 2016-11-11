@@ -16,4 +16,4 @@ Prototype phase (Nov. 2016 - Jan. 2017)
 
 - **General UBN editor**: Larry
 
-Remark: our goal will be to have all of you, as you grow into the UBN work and if you are willing, to become potential manager-revisers for other UBN workers.
+**Remark**: our goal will be to have all of you, as you grow into the UBN work and if you are willing, to become potential manager-revisers for other UBN workers.
