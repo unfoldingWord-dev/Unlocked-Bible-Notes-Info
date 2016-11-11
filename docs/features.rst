@@ -1,4 +1,4 @@
-The main features of the UBN
+The Main Features of the UBN
 ============================
 
 The UBN is to have these main features:
