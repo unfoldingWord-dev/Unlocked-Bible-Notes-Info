@@ -44,20 +44,14 @@ So that the directory tree for any book will look like:
     en-ubn-xxx/
         |.github
         |content/
+        |    |01.md
+        |    |02.md
+        |    |intro.md
         |license
         |readme.md
 
-The directories shown above indicate chapters except for the two reserved folders `front` and `back` which contain, if applicable, the front matter and back matter of the container.
 
-
-The folder structure of the content directory. (Psalms will be 3 digit numbers)
-
-.. code-block:: none
-
-    content/
-         |01.md
-         |02.md
-         |intro.md
+The content directory (Psalms will be 3 digit numbers) shown above indicate chapter numbers and the Introduction to the Book page.
 
 
 Door43/en-ubn-articles
