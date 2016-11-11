@@ -12,7 +12,7 @@ Specific Architecture
 ---------------------
 
 Door43/en-ubn 
------
+----
 Homepage of the UBN
 
 1. Location of all files that are for global reference/use
@@ -35,7 +35,22 @@ Here is where to locate the working files for the UBN (i.e., the files containin
 - All writers and manager-revisers will do their work online in one of these repositories. Each biblical book repository will contain the working notes created for that book.
 - Each chapter of the book will have its own file. For example: Luke 1 will have the following chapter URL: https://git.door43.org/Door43/en-ubn-luk/src/master/content/01.md  
 
-So that the directory tree for any book will look like: (Psalms will be 3 digit numbers)Content		01.md		02.md		intro.md
+So that the directory tree for any book will look like: 
+
+(Psalms will be  digit numbers)
+
+.. code-block:: none
+
+        |-content/
+        |    |-01.md
+        |    |-02.md
+        |    |-intro.md
+
+
+
+
+
+
 
 Directory Structure
 -------------------
