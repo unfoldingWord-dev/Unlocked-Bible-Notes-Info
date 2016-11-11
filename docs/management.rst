@@ -8,8 +8,8 @@ UBN/UBC/ tN Projects Manager: Jim Pohlig
 - Prototype phase (Nov. 2016 - Jan. 2017)
   - Prototype Team: (listed alphabetically) Andrew Belcher, Drew Curley, Rhea Ferrier, Nils Friberg, John Hutchins, Paul Montague, Shirley Ralston, Larry Sallee, David Whisler
   - Prototype working structure
-    1. Gospel of Luke team:  Andrew, Paul, Shirley
-    2. Gospel of John team: John, Drew, Nils, Rhea
+    - Gospel of Luke team:  Andrew, Paul, Shirley
+    - Gospel of John team: John, Drew, Nils, Rhea
   - Managers-revisers: Andrew and John
   - General UBN editor: Larry
 
