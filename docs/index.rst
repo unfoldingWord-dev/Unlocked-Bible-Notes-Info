@@ -23,4 +23,3 @@ Contents:
    management
    architecture
    appendices
- 
