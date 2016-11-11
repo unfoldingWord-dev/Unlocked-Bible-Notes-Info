@@ -39,7 +39,7 @@ So that the directory tree for any book will look like:
 
 .. code-block:: none
 
-    en-ubn-luk/
+    en-ubn-xxx/
         |-.github
         |-content/
         |-license
