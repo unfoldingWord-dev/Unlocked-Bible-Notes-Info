@@ -12,7 +12,6 @@ Prototype phase (Nov. 2016 - Jan. 2017)
 - **Prototype working structure**
    - Gospel of Luke team:  Andrew, Paul, Shirley
    - Gospel of John team: John, Drew, Nils, Rhea
-
 - **Managers-revisers**: Andrew and John
 
 - **General UBN editor**: Larry
