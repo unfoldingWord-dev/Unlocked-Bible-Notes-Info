@@ -14,8 +14,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   relationship
    purpose
+   relationship
    features
    tagging
    procedures
