@@ -6,8 +6,6 @@ Table of Headers & Table of Tags _<https://github.com/unfoldingWord-dev/Unlocked
 
 Schedule of Working Files: (https://github.com/unfoldingWord-dev/Unlocked-Bible-Notes-Info/blob/master/Schedule%20of%20Working%20Files.pdf)
 
-:doc: Schedule of Working Files: (https://github.com/unfoldingWord-dev/Unlocked-Bible-Notes-Info/blob/master/Schedule%20of%20Working%20Files.pdf)
-
 3-Letter Abbreviations of Biblical Books: (https://github.com/unfoldingWord-dev/Unlocked-Bible-Notes-Info/blob/master/3-Letter%20Abbreviations%20of%20Biblical%20Books.pdf)
 
 Same Note Formatting: (https://github.com/unfoldingWord-dev/Unlocked-Bible-Notes-Info/blob/master/Same%20Note%20Formatting.pdf)
