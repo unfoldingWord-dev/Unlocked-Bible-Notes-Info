@@ -2,7 +2,7 @@ Appendices
 ==========
 
 
-Table of Headers & table of Tags: (https://github.com/unfoldingWord-dev/Unlocked-Bible-Notes-Info/blob/master/Table%20of%20Headers%20%26%20Table%20of%20Tags.pdf)
+Table of Headers & Table of Tags: (https://github.com/unfoldingWord-dev/Unlocked-Bible-Notes-Info/blob/master/Table%20of%20Headers%20%26%20Table%20of%20Tags.pdf)
 
 Schedule of Working Files: (https://github.com/unfoldingWord-dev/Unlocked-Bible-Notes-Info/blob/master/Schedule%20of%20Working%20Files.pdf)
 
