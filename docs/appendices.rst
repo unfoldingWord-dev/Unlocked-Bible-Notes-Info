@@ -2,9 +2,11 @@ Appendices
 ==========
 
 
-Table of Headers & Table of Tags <https://github.com/unfoldingWord-dev/Unlocked-Bible-Notes-Info/blob/master/Table%20of%20Headers%20%26%20Table%20of%20Tags.pdf>
+Table of Headers & Table of Tags _<https://github.com/unfoldingWord-dev/Unlocked-Bible-Notes-Info/blob/master/Table%20of%20Headers%20%26%20Table%20of%20Tags.pdf>_
 
 Schedule of Working Files: (https://github.com/unfoldingWord-dev/Unlocked-Bible-Notes-Info/blob/master/Schedule%20of%20Working%20Files.pdf)
+
+:doc: Schedule of Working Files: (https://github.com/unfoldingWord-dev/Unlocked-Bible-Notes-Info/blob/master/Schedule%20of%20Working%20Files.pdf)
 
 3-Letter Abbreviations of Biblical Books: (https://github.com/unfoldingWord-dev/Unlocked-Bible-Notes-Info/blob/master/3-Letter%20Abbreviations%20of%20Biblical%20Books.pdf)
 
