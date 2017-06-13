@@ -49,7 +49,8 @@ These tags allow the writer to link notes to other project resources, i.e., glos
 - Existing glossary entry (#g-xxx).  (Example: #g-ascension) Use this tag to link the note to an existing glossary item. Check the inventory of current glossary items to see whether the item to which you desire to link already exists; if it does, you will find its approved tag. In that case, then use the same tag.
 - Existing article (#a-xxx). (Example: #a-christ) Use this tag to link the note to an existing article. Check the inventory of current articles to see whether the article to which you desire to link already exists; if it does, you will find its approved tag. In that case, then use the same tag.          
 - Existing map (#m-xxx). (Example: #m-Judea) Maps are planned to be prepared upon request. They are to be included as a linkable resource.   
-- Strongs number (#Hn..., #An..., #Gn...). (Examples: #H305, #A1933, #G58) Use these tags to refer to the citation form of a word in a biblical language. These tags should be put in-line in sentences in the notes.  Links to Strongs numbers can be found at https://en.wikipedia.org/wiki/Strong%27s_Concordance or elsewhere.    
+- Strongs number (#Hn..., #An..., #Gn...). (Examples: #H305, #A1933, #G58) Use these tags to refer to the citation form of a word in a biblical language. These tags should be put in-line in sentences in the notes.  Formatting of the citation should have the English word in square brackets followed by the Strongs number in parenthesis; such as [the world](#g2889).
+Links to Strongs numbers can be found at https://en.wikipedia.org/wiki/Strong%27s_Concordance or elsewhere.    
 
 
     For your information, we expect that glossary entries will look something like these examples:
