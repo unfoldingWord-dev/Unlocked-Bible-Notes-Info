@@ -48,8 +48,8 @@ These tags allow the writer to link notes to other project resources, i.e., glos
 
 - Existing glossary entry (#g-xxx).  (Example: #g-ascension) Use this tag to link the note to an existing glossary item. Check the inventory of current glossary items to see whether the item to which you desire to link already exists; if it does, you will find its approved tag. In that case, then use the same tag.
 - Existing article (#a-xxx). (Example: #a-christ) Use this tag to link the note to an existing article. Check the inventory of current articles to see whether the article to which you desire to link already exists; if it does, you will find its approved tag. In that case, then use the same tag.          
-- Existing map (#m-xxx). (Example: #m-Judea) Maps are planned to be prepared upon request. They are to be included as a linkable resource.   
-- Strongs number (#Hn..., #An..., #Gn...). (Examples: #H305, #A1933, #G58) Use these tags to refer to the citation form of a word in a biblical language. These tags should be put in-line in sentences in the notes.  Formatting of the citation should have the English word in square brackets followed by the Strongs number in parenthesis; such as [the world](#g2889).
+- Existing map (#m-xxx). (Example: #m-judea) Maps are planned to be prepared upon request. They are to be included as a linkable resource.   
+- Strongs number (#hn..., #an..., #gn...). (Examples: #h305, #a1933, #g58) Use these tags to refer to the citation form of a word in a biblical language. These tags should be put in-line in sentences in the notes.  Formatting of the citation should have the English word in square brackets followed by the Strongs number in parenthesis; such as [the world](#g2889).
 Links to Strongs numbers can be found at https://en.wikipedia.org/wiki/Strong%27s_Concordance or elsewhere.    
 
 
@@ -76,7 +76,7 @@ This means that for a resource item to be said to exist, it will suffice for tha
 - Question (#q).  Use this tag to mark every working question created to generate a note. Place the tag after the question on the same line. (This is an exception to the general rule of each tag sitting in its own line.) 
 - Desired glossary entry (#dg-xxx).  (Example: #dg-blessing) Use this tag to request a new item to be added to the glossary. 
 - Desired article (#da-xxx).  (Example: #da-crucifixion) Use this tag to request a new article to be written. 
-- Desired map (#dm-xxx). (Example: #dm-Jerusalem in David's time) Use this tag to request a new map to be drawn and added to the map resources.   
+- Desired map (#dm-xxx). (Example: #dm-Jerusalemintimeofdavid) Use this tag to request a new map to be drawn and added to the map resources.   
 - Desired biblical theme (#dbt-xxx) (Example: #dbt-verbalinspir) Use this tag to request a new biblical theme that the user can employ for filtering notes.  
 - Desired theological stance (#dts-xxx) (Example: #dts-infantbap) Use this tag to request a new biblical theological stance that the user can employ for filtering notes.  
 
