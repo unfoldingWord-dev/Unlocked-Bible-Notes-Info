@@ -52,8 +52,7 @@ These tags allow the writer to link notes to other project resources, i.e., glos
 - Strongs number (#hn..., #an..., #gn...). (Examples: #h0305, #a1933, #g0058) Use these tags to refer to the citation form of a word in a biblical language. These tags must be four digits with the leading zeros as necessary. These tags should be put in-line in sentences in the notes.  Formatting of the citation should have the English word in square brackets followed by the Strongs number in parenthesis; such as [the world](#g2889). Citations with more than one Greek/Hebrew word should list them separately, with each English words followed immediately by the Strong’s link; such as [I](#g1473)[am](#g1510). The user will only see the words enclosed in the square brackets, but those words will link to the Strong’s numbers that follow them.
 Links to Strongs numbers can be found at https://en.wikipedia.org/wiki/Strong%27s_Concordance or elsewhere.    
 
-
-    For your information, we expect that glossary entries will look something like these examples:
+For your information, we expect that glossary entries will look something like these examples:
 
     #g-ascension - The return of Jesus to heaven after he rose from the dead.
 
